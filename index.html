@@ -12,8 +12,22 @@
     <body>
         <div id="root"></div>
         <script type="text/babel">
+            function Banner (props) {
+                return 
+                <header>
+                    <Header/>
+                    <Description/>
+                </header>
+            }
+            function Header (props) {
+                return <h1>La maison jungle</h1>
+            }
+            function Description (props) {
+                return <p>Ici achetez toutes les plantes dont vous avez toujours rêvé 🌵🌱🎍</p>
+            }
+            
             ReactDOM.render(
-                <h1>La maison jungle</h1>
+                <Banner/>
                 , root
             )
         </script>
