@@ -1,39 +1,50 @@
-# OpenClassrooms - Débutez avec React
+## P1C2
+<div class="foldable__content"><p id="r-7134567" data-claire-element-id="31402162" class="hoveredCourseElement">&nbsp;<img id="r-7148539" data-claire-element-id="31402161" src="https://user.oc-static.com/upload/2021/01/19/16110448127505_Banner%20Exercez-vous.png" alt="Banner Exercez-vous"></p><p id="r-7148459" data-claire-element-id="31401932" class="">Je vous avais parlé au chapitre précédent d'un exercice fil rouge qui nous accompagnerait tout au long de ce cours. Vous vous en souvenez&nbsp;? Nous allons créer ensemble <strong>un site pour un magasin de plantes</strong>, La maison jungle !&nbsp;</p><p id="r-7134568" data-claire-element-id="31375458" class="">Il est temps de mettre en pratique ce que vous venez de voir. <br>Votre mission, si vous l'acceptez, est la suivante&nbsp;:</p><ul id="r-7134573" data-claire-element-id="31380769" class=""><li id="r-7134570" data-claire-element-id="31380768"><p id="r-7134569" data-claire-element-id="31380767"><strong>Créer le premier composant Header</strong> qui contient le nom de notre magasin&nbsp;: La maison jungle. Le composant Header correspond à une balise&nbsp;<code data-claire-semantic="text">h1</code>&nbsp; .</p></li><li id="r-7134572" data-claire-element-id="31375462"><p id="r-7134571" data-claire-element-id="31375461"><strong>L'intégrer dans un élément HTML</strong> qui aura pour id "root".</p></li></ul><p id="r-7134575" data-claire-element-id="31402221" class="">Vous trouverez <a href="https://codepen.io/nicolaspatschkowski/pen/ExgrqLV" target="_blank" rel="noopener noreferrer nofollow">le lien du CodePen pour commencer l'exercice ici</a>. Vous êtes des petits chanceux : je vous ai déjà paramétré React, ReactDOM et Babel.</p><p id="r-7134576" data-claire-element-id="31402222" class="">Et voici <a href="https://codepen.io/nicolaspatschkowski/pen/vYXVqod" target="_blank" rel="noopener noreferrer nofollow">la solution que je vous propose, juste ici</a>.</p><p id="r-7134578" data-claire-element-id="31375465" class="">Vous pouvez faire les exercices directement dans les liens, ou bien créer votre propre compte CodePen, et copier-coller le contenu au fur et à mesure. Ou même le faire en local dans des fichiers HTML, c’est vraiment comme vous préférez. 🤗</p></div>
 
-Ce repo contient le code de base pour les exercices que vous trouverez dans le cours [OpenClassrooms - Débutez avec React](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react).
+---
+---
+---
 
-## Exercices
+---
+---
+---
 
-### Partie 1 - Initiez-vous aux principes de React
+---
+---
+---
 
-Les exercices de cette partie se trouvent sur CodePen.
+---
+---
+---
 
-| Contenu                                                                                                                                     | Begin                                                                     | Solution                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [Chapitre 1](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7137561-tirez-le-maximum-de-ce-cours)                         | /                                                                         | /                                                              |
-| [Chapitre 2](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7134597-apprehendez-la-logique-de-react)                      | [Début de l'exercice](https://codepen.io/nicolaspatschkowski/pen/ExgrqLV) | [Solution](https://codepen.io/nicolaspatschkowski/pen/vYXVqod) |
-| [Chapitre 3](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7134800-ecrivez-du-code-modulaire-avec-les-composants-en-jsx) | [Début de l'exercice](https://codepen.io/nicolaspatschkowski/pen/JjRmgdJ) | [Solution](https://codepen.io/nicolaspatschkowski/pen/MWjPNaa) |
+---
+---
+---
 
-### Partie 2 - Créez votre première application complète avec Create React App
+---
+---
+---
 
-| Contenu                                                                                                                                                    | Begin                                                                                                                                                                                                             | Solution                                                                                                                                                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Chapitre 1](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7135204-prenez-en-main-create-react-app)                                     | /                                                                                                                                                                                                                 | [Branche solution](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P2C1-Solution)                                                                                                            |
-| [Chapitre 2](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7135359-incorporez-du-style-et-des-assets-a-votre-projet)                    | [Branche begin](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P2C2-Begin)                                                                                                      | [Branche solution](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P2C2-Solution)                                                                                                            |
-| [Chapitre 3](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7135593-gagnez-en-temps-et-en-efficacite-grace-aux-listes-et-aux-conditions) | [Begin 1](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P2C3-Begin-1) [Begin 2](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P2C3-Begin-2) | [Solution 1](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P2C3-Solution-1) [Solution 2](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P2C3-Solution-2) |
-| [Chapitre 4](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7135822-reutilisez-vos-composants-avec-les-props)                            | [Branche begin](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P2C4-Begin)                                                                                                      | [Branche solution](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P2C4-Solution)                                                                                                            |
-| [Chapitre 5](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7136084-interagissez-avec-vos-composants-grace-aux-evenements)               | [Branche begin](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P2C5-Begin)                                                                                                      | [Branche solution](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P2C5-Solution)                                                                                                            |
+---
+---
+---
 
-### Partie 3 - Stockez et récupérez des données avec le state et les effets
+---
+---
+---
 
-| Contenu                                                                                                                                 | Begin                                                                                                        | Solution                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| [Chapitre 1](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7137536-mettez-en-place-votre-state-local-avec-usestate)  | [Branche begin](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P3C1-Begin) | [Branche solution](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P3C1-Solution) |
-| [Chapitre 2](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7136837-partagez-votre-state-entre-differents-composants) | [Branche begin](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P3C2-Begin) | [Branche solution](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P3C2-Solution) |
-| [Chapitre 3](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7137079-declenchez-des-effets-avec-useeffect)             | [Branche begin](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P3C3-Begin) | [Branche solution](https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P3C3-Solution) |
+---
+---
+---
 
-### Partie 4 - Conclusion
+---
+---
+---
 
-| Contenu                                                                                                       | Begin | Solution |
-| ------------------------------------------------------------------------------------------------------------- | ----- | -------- |
-| [Chapitre 1](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7137137-revenez-sur-vos-acquis) | /     | /        |
+---
+---
+---
+
+---
+---
+---
