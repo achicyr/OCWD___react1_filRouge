@@ -11,6 +11,9 @@
 ---
 ---
 ---
+## P2C1
+
+<div class="foldable__content"><p id="r-7148475" data-claire-element-id="31401991" class=""><img id="r-7148474" data-claire-element-id="31401990" src="https://user.oc-static.com/upload/2021/01/19/16110442954533_Banner%20Exercez-vous.png" alt="Banner Exercez-vous"></p><p id="r-7135174" data-claire-element-id="31377251" class="hoveredCourseElement">Vous pouvez commencer l’exercice à partir de la base de code que nous avons créée ensemble avec Create React App.</p><p id="r-7135176" data-claire-element-id="31427572" class="">Votre mission est la suivante : <strong>importer le composant&nbsp;<code data-claire-semantic="text">Cart</code>&nbsp;</strong>que vous <a href="https://codepen.io/atoulmet/pen/YzWMvWP" target="_blank" rel="noopener noreferrer nofollow">aviez créé dans l’exercice du chapitre précédent</a> dans un fichier à part, dans le dossier&nbsp;<code data-claire-semantic="text">/components</code>.</p><p id="r-7135178" data-claire-element-id="31400631" class="">Vous trouverez la solution de l’exercice sur <a href="https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/tree/P2C1-Solution" target="_blank" rel="noopener noreferrer nofollow">la branche P2C1-Solution</a>.</p></div>
 
 ---
 ---
@@ -51,3 +54,85 @@
 ---
 ---
 ---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+
+
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
