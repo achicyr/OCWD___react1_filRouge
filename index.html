@@ -13,17 +13,39 @@
         <div id="root"></div>
         <script type="text/babel">
             function Banner (props) {
-                return 
-                <header>
-                    <Header/>
-                    <Description/>
-                </header>
+                return (
+                    <header>
+                        <Header/>
+                        <Description/>
+                        <Cart/>
+                    </header>
+                )
             }
             function Header (props) {
-                return <h1>La maison jungle</h1>
+                let titre = "La maison jungle"
+                return <h1>{titre.toUpperCase()}</h1>
             }
             function Description (props) {
-                return <p>Ici achetez toutes les plantes dont vous avez toujours rêvé 🌵🌱🎍</p>
+                let texte = "Ici achetez toutes les plantes dont vous avez toujours rêvé"
+                , emojis = "🌵🌱🎍"
+                return <p> {texte} {emojis}</p>
+            }
+
+            function Cart (props) {
+                let monstera = 8
+                , lierre = 10
+                , bdf = 15
+                return <>
+                    <h2>Panier:</h2>
+                    <ul>
+                        {<li><span>Monstera</span>: {monstera} €</li>}
+                        {<li><span>Lierre</span>: {lierre} €</li>}
+                        {<li><span>Bouquet de fleur</span>: {bdf} €</li>}
+                            
+                    </ul>
+                    <h3>Total:</h3>
+                    <p>{monstera+lierre+bdf} €</p>
+                </>
             }
             
             ReactDOM.render(
